@@ -1,4 +1,4 @@
-# medical-cannabis-analysis
+# Medical Cannabis Analysis Project
 
 
 ## Project Objective
