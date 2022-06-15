@@ -31,3 +31,9 @@ Team Members - [Eli Hirsch](https://www.linkedin.com/in/eli-b-hirsch/), [Ayelet 
 | Trends of Reasons | Where should they move their resources? |
 | Trends of Medical Cannabis approvals | Keeping track of supply for the future |
 | Break down by age | Understaning of the market slices |
+
+
+
+## Data Route
+![Data Route](https://github.com/elijellyeli/medical-cannabis-analysis/blob/main/src/data%20route.png)
+
