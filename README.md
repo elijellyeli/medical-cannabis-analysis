@@ -17,7 +17,7 @@ Team Members - [Eli Hirsch](https://www.linkedin.com/in/eli-b-hirsch/), [Ayelet 
 
 
 ## Technolagis Used:
-- [x] Data Source [Free Data on Medical Cannabis](https://www.meida.org.il/?p=11491)
+- [x] Data Source [Open Data on Medical Cannabis csv](https://www.meida.org.il/?p=11491)
 - [x] SQL views & tables - hosted on Snowflake Data Warehouse
 - [x] Reports - using Power BI
 
